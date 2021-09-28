@@ -76,9 +76,9 @@ function Footer() {
                     <li>
                       <a href="#">Home</a>
                     </li>
-                    <li>
+                    {/* <li>
                       <a href="#">about</a>
-                    </li>
+                    </li> */}
                     <li>
                       <a href="#">services</a>
                     </li>
@@ -88,15 +88,15 @@ function Footer() {
                     <li>
                       <a href="#">About us</a>
                     </li>
-                    <li>
+                    {/* <li>
                       <a href="#">Expert Team</a>
-                    </li>
-                    <li>
+                    </li> */}
+                    {/* <li>
                       <a href="#">Contact us</a>
-                    </li>
-                    <li>
+                    </li> */}
+                    {/* <li>
                       <a href="#">Latest News</a>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </div>
