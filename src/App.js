@@ -3,6 +3,7 @@ import NavMenu from "./components/Navbar";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ReferBar from "./components/ReferBar";
 import Footer from "./components/Footer";
+import ReferCard from "./components/ReferCard";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Router>
         {/* <ReferBar /> */}
         <NavMenu />
+        <ReferCard />
         <Footer />
         <Switch>
           <Route path="/" exact />
