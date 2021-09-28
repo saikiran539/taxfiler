@@ -6,7 +6,7 @@ function Footer() {
     <div>
       <footer className="footer-section">
         <div className="container">
-          <div className="footer-cta pt-5 pb-5">
+          {/* <div className="footer-cta pt-5 pb-5">
             <div className="row">
               <div className="col-xl-4 col-md-4 mb-30">
                 <div className="single-cta">
@@ -36,7 +36,7 @@ function Footer() {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           <div className="footer-content pt-5 pb-5">
             <div className="row">
               <div className="col-xl-6 col-lg-6 mb-50">
