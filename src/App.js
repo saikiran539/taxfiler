@@ -1,7 +1,7 @@
 import "./App.css";
 import NavMenu from "./components/Navbar";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import ReferBar from "./components/ReferBar";
+//import ReferBar from "./components/ReferBar";
 import Footer from "./components/Footer";
 import ReferCard from "./components/ReferCard";
 
